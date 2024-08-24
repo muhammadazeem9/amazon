@@ -1,2 +1,2 @@
 # amazon
- amzone base clone
+ amzone clone using html css
